@@ -35,9 +35,9 @@
             "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1531733688724,
-            "changeTime": 1531733688724,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
+            "modifiedTime": 1531735693422,
+            "changeTime": 1531735693422,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -48,13 +48,12 @@
             "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1531732925339,
-            "changeTime": 1531732925339,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1531735779342,
+            "changeTime": 1531735779342,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -153,14 +152,14 @@
     [
         "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
+            "size": 328,
+            "modifiedTime": 1531735220440,
+            "changeTime": 1531735220446,
+            "contentHash": "88870967a9c81a1b185b4466b5e60095c655cec7",
             "isMetadataFile": false,
-            "size": 48,
-            "modifiedTime": 1531735068552,
-            "changeTime": 1531735068552,
-            "contentHash": "bd33268e02f708a2eb879ed8dee7c540f4293053"
+            "state": "u"
         }
     ],
     [
@@ -234,7 +233,7 @@
             "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1531733792334,
+            "modifiedTime": 1531735220447,
             "changeTime": 1531733688720,
             "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
             "isMetadataFile": false,
@@ -250,6 +249,266 @@
             "modifiedTime": 1531733688725,
             "changeTime": 1531733688725,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531735976621,
+            "changeTime": 1531735365268,
+            "contentHash": "9c8aca56d8461dfbf4b9bac4bb4a006c2863ae81",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 191,
+            "modifiedTime": 1531735976607,
+            "changeTime": 1531735976621,
+            "contentHash": "0c7f8102167da5c2e4813e09bc0523b11ca1b120"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1531735333980,
+            "changeTime": 1531735333989,
+            "contentHash": "b2d8ae12e753705d4511181551ea1893b035b4cf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "size": 131,
+            "modifiedTime": 1531735373045,
+            "changeTime": 1531735373052,
+            "contentHash": "d1058cfde2b3f95867c7f032f1a5d1ba10967699",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1531735693418,
+            "changeTime": 1531735693418,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4901,
+            "modifiedTime": 1531735693425,
+            "changeTime": 1531735693425,
+            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17965,
+            "modifiedTime": 1531735693447,
+            "changeTime": 1531735693447,
+            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4561,
+            "modifiedTime": 1531735693454,
+            "changeTime": 1531735693454,
+            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4565,
+            "modifiedTime": 1531735693460,
+            "changeTime": 1531735693460,
+            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531735693417,
+            "changeTime": 1531735693417,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531735693459,
+            "changeTime": 1531735693459,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531735764558,
+            "changeTime": 1531735751664,
+            "contentHash": "88f23bf64a62948cfbf3079e2991ae9e41ea2642",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 127,
+            "modifiedTime": 1531735764550,
+            "changeTime": 1531735764557,
+            "contentHash": "49db66d2a947aabf111c060d65607d82165416c4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 220,
+            "modifiedTime": 1531735737590,
+            "changeTime": 1531735737597,
+            "contentHash": "3db55e2bdd9af238e0ebb6067951cf525d4ad472",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1531735764538,
+            "changeTime": 1531735764545,
+            "contentHash": "0a91b7c1bd37605f99c1e24618c24b2b0e22caa2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531735962344,
+            "changeTime": 1531735956182,
+            "contentHash": "c51002bcee60db5feb05dcad37d499e73b9b6fcb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "size": 360,
+            "modifiedTime": 1531735794328,
+            "changeTime": 1531735794338,
+            "contentHash": "5272a2acbf4026a287d2276a1d320ca5d68ab554",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1531735779454,
+            "changeTime": 1531735779462,
+            "contentHash": "333d5ca0b11082f9f7633d033239a16c20f376d3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "size": 116,
+            "modifiedTime": 1531735962336,
+            "changeTime": 1531735962343,
+            "contentHash": "b2afbf4f707403041b4dc82da60a45192ef3ded8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "sourcePath": "C:\\Users\\Britenet\\IdeaProjects\\geolocationSFDX\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1531735962322,
+            "changeTime": 1531735962329,
+            "contentHash": "8af1b717f06f3629fa80de6ed12d1f718105b950",
             "isMetadataFile": false,
             "state": "u"
         }

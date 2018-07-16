@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdf017f7-83b7-4877-b9b6-8c9af2c64cf6" name="Default" comment="" />
+    <list default="true" id="fdf017f7-83b7-4877-b9b6-8c9af2c64cf6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/aura/AccountList/AccountList.cmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/aura/AccountList/AccountList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/aura/AccountList/AccountListController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/aura/AccountListItem/AccountListItem.cmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/aura/AccountListItem/AccountListItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/aura/AccountLocator/AccountLocator.cmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/aura/AccountLocator/AccountLocator.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sfdx/orgs/test-b4kgpaisixkk@example.com/maxrevision.json" beforeDir="false" afterPath="$PROJECT_DIR$/.sfdx/orgs/test-b4kgpaisixkk@example.com/maxrevision.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sfdx/orgs/test-b4kgpaisixkk@example.com/sourcePathInfos.json" beforeDir="false" afterPath="$PROJECT_DIR$/.sfdx/orgs/test-b4kgpaisixkk@example.com/sourcePathInfos.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sfdx/orgs/test-b4kgpaisixkk@example.com/sourcePathInfos.json.bak" beforeDir="false" afterPath="$PROJECT_DIR$/.sfdx/orgs/test-b4kgpaisixkk@example.com/sourcePathInfos.json.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/force-app/main/default/classes/AccountController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/classes/AccountController.cls" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,16 +28,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AccountController.cls" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AccountController.cls" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/force-app/main/default/classes/AccountController.cls">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountLocator.cmp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountLocator/AccountLocator.cmp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountLocator.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountLocator/AccountLocator.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountListItem.cmp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountListItem/AccountListItem.cmp">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountListItem.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountListItem/AccountListItem.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountList.cmp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountList/AccountList.cmp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountListController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountList/AccountListController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountList.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountList/AccountList.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Lightning Component" />
+        <option value="Apex Metadata" />
+        <option value="Lightning Controller" />
+        <option value="Lightning Style" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,6 +119,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/force-app/main/default/classes/AccountController.cls" />
+        <option value="$PROJECT_DIR$/force-app/main/default/aura/AccountLocator/AccountLocator.css" />
+        <option value="$PROJECT_DIR$/force-app/main/default/aura/AccountListItem/AccountListItem.cmp" />
+        <option value="$PROJECT_DIR$/force-app/main/default/aura/AccountListItem/AccountListItem.css" />
+        <option value="$PROJECT_DIR$/force-app/main/default/aura/AccountList/AccountList.cmp" />
+        <option value="$PROJECT_DIR$/force-app/main/default/aura/AccountList/AccountListController.js" />
+        <option value="$PROJECT_DIR$/force-app/main/default/aura/AccountList/AccountList.css" />
+        <option value="$PROJECT_DIR$/force-app/main/default/aura/AccountLocator/AccountLocator.cmp" />
       </list>
     </option>
   </component>
@@ -98,6 +194,32 @@
               <item name="force-app" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geolocationSFDX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geolocationSFDX" type="462c0819:PsiDirectoryNode" />
+              <item name="force-app" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="aura" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geolocationSFDX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geolocationSFDX" type="462c0819:PsiDirectoryNode" />
+              <item name="force-app" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="aura" type="462c0819:PsiDirectoryNode" />
+              <item name="AccountList" type="edc2aaaf:IlluminatedCloudProjectTreeStructureProvider$BundleDirectoryNode" />
+            </path>
+            <path>
+              <item name="geolocationSFDX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geolocationSFDX" type="462c0819:PsiDirectoryNode" />
+              <item name="force-app" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="aura" type="462c0819:PsiDirectoryNode" />
+              <item name="AccountListItem" type="edc2aaaf:IlluminatedCloudProjectTreeStructureProvider$BundleDirectoryNode" />
             </path>
             <path>
               <item name="geolocationSFDX" type="b2602c69:ProjectViewProjectNode" />
@@ -185,18 +307,19 @@
       <option name="presentableId" value="Default" />
       <updated>1531732918474</updated>
       <workItem from="1531732935300" duration="137000" />
-      <workItem from="1531733082399" duration="1980000" />
+      <workItem from="1531733082399" duration="2892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2117000" />
+    <option name="totallyTimeSpent" value="3029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-184" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.3297414" />
       <window_info anchor="bottom" id="Anonymous Apex" order="7" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
@@ -214,7 +337,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297414" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.3297414" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info anchor="bottom" id="SOQL Query" order="7" />
       <window_info id="Learn" order="2" />
@@ -238,8 +361,57 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/force-app/main/default/classes/AccountController.cls">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountLocator/AccountLocator.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountListItem/AccountListItem.cmp">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountListItem/AccountListItem.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountList/AccountList.cmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountList/AccountListController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountList/AccountList.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/aura/AccountLocator/AccountLocator.cmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
