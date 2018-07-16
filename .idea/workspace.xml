@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdf017f7-83b7-4877-b9b6-8c9af2c64cf6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.sfdx/orgs/test-b4kgpaisixkk@example.com/sourcePathInfos.json.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sfdx/orgs/test-b4kgpaisixkk@example.com/sourcePathInfos.json" beforeDir="false" afterPath="$PROJECT_DIR$/.sfdx/orgs/test-b4kgpaisixkk@example.com/sourcePathInfos.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/force-app/main/default/classes/AccountController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/classes/AccountController.cls" afterDir="false" />
-    </list>
+    <list default="true" id="fdf017f7-83b7-4877-b9b6-8c9af2c64cf6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +15,8 @@
       <file leaf-file-name="AccountController.cls" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/force-app/main/default/classes/AccountController.cls">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="51">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -190,12 +185,12 @@
       <option name="presentableId" value="Default" />
       <updated>1531732918474</updated>
       <workItem from="1531732935300" duration="137000" />
-      <workItem from="1531733082399" duration="1082000" />
+      <workItem from="1531733082399" duration="1980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1219000" />
+    <option name="totallyTimeSpent" value="2117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-184" width="1936" height="1066" extended-state="6" />
@@ -243,8 +238,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/force-app/main/default/classes/AccountController.cls">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
